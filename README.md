@@ -15,6 +15,7 @@ AI-powered customer churn prediction platform with explainable machine learning 
 ![Gradient Boosting](https://img.shields.io/badge/Gradient%20Boosting-Classifier-success)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![License](https://img.shields.io/badge/License-MIT-brightgreen)
+![Open Source](https://img.shields.io/badge/Open_Source-Yes-brightgreen)
 
 ##  Overview
 
