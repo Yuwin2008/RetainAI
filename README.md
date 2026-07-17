@@ -235,11 +235,11 @@ RetainAI is deployed using Streamlit Cloud.
 
 ### SHAP Explainability
 
-![SHAP Explainability](images/shap_explainabilty.png)
+![SHAP Explainability](images/shap_explainability.png)
 
 ### Retention Recommendations
 
-![Retention Reccomendation](images/retention_recommendation.png)
+![Retention Reccomendation](images/retention_strategy.png)
 
 ---
 
