@@ -87,11 +87,12 @@ RetainAI/
 ├── requirements.txt
 ├── model/
 │   └── gb_model.pkl
-├── notebooks/
-│   └── training_notebook.ipynb
-├── assets/
-│   └── screenshots/
-└── README.md
+├── notebook/
+│   └── customer_churn.ipynb
+├── dataset
+│   └── WA_Fn-UseC_-Telco-Customer-Churn.csv
+│   └── WA_Fn-UseC_-Telco-Customer-Churn.xls
+
 ```
 
 ---
