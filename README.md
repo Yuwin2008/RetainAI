@@ -4,6 +4,17 @@ AI-powered customer churn prediction platform with explainable machine learning 
 
 ---
 
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://retainai2407.streamlit.app)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikitlearn)
+![SHAP](https://img.shields.io/badge/SHAP-Explainable%20AI-purple)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-150458?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green)
+![Joblib](https://img.shields.io/badge/Joblib-Model%20Serialization-yellow)
+![Gradient Boosting](https://img.shields.io/badge/Gradient%20Boosting-Classifier-success)
+![License](https://img.shields.io/badge/License-MIT-brightgreen)
+
 ##  Overview
 
 RetainAI is an end-to-end machine learning application designed to help businesses identify customers at risk of leaving before churn occurs.
