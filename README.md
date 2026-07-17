@@ -13,6 +13,7 @@ AI-powered customer churn prediction platform with explainable machine learning 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green)
 ![Joblib](https://img.shields.io/badge/Joblib-Model%20Serialization-yellow)
 ![Gradient Boosting](https://img.shields.io/badge/Gradient%20Boosting-Classifier-success)
+![Status](https://img.shields.io/badge/Status-Active-success)
 ![License](https://img.shields.io/badge/License-MIT-brightgreen)
 
 ##  Overview
@@ -243,6 +244,11 @@ RetainAI is deployed using Streamlit Cloud.
 * Multi-model comparison dashboard.
 * Authentication and user accounts.
 * Cloud database integration.
+
+---
+
+## Live Demo
+Link: https://retainai2407.streamlit.app
 
 ---
 
