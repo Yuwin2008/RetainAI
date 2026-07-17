@@ -105,6 +105,12 @@ RetainAI/
 ├── dataset
 │   └── WA_Fn-UseC_-Telco-Customer-Churn.csv
 │   └── WA_Fn-UseC_-Telco-Customer-Churn.xls
+├── images/
+│   └──retention_strategy.png
+│   └──dashboard1.png
+│   └──dashboard2.png
+│   └──shap_explainability.png
+
 
 ```
 
@@ -224,15 +230,16 @@ RetainAI is deployed using Streamlit Cloud.
 
 ### Dashboard
 
-*Add screenshot here*
+![Dashboard Before Prediction](images/dashboard1.png)
+![Dashboard After Prediction](images/dashboard2.png)
 
 ### SHAP Explainability
 
-*Add screenshot here*
+![SHAP Explainability](images/shap_explainabilty.png)
 
 ### Retention Recommendations
 
-*Add screenshot here*
+![Retention Reccomendation](images/retention_recommendation.png)
 
 ---
 
